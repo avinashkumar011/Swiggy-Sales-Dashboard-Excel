@@ -19,11 +19,11 @@ This project is an interactive sales dashboard created using Microsoft Excel.
 
 📸 Dashboard Preview
 
-"Dashboard" (dashboard.png)
+![Dashboard](dashboard.png)
 
 📂 Project File
 
-You can download the Excel file from this repository.
+Dashboard.xlsx
 
 🚀 Learnings
 
