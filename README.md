@@ -18,6 +18,7 @@ This project is an interactive sales dashboard created using Microsoft Excel.
 - Slicers
 
 📸 Dashboard Preview
+
 ![Dashboard](Dashboard.png)
 
 📂 Project File
