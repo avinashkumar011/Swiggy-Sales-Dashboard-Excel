@@ -21,10 +21,6 @@ This project is an interactive sales dashboard created using Microsoft Excel.
 
 ![Dashboard](Dashboard.png)
 
-📂 Project File
-
-Dashboard.xlsx
-
 🚀 Learnings
 
 - Data cleaning & transformation
